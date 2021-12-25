@@ -1,0 +1,10 @@
+div#app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-signUp{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
