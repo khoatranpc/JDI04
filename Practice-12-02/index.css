@@ -1,0 +1,10 @@
+h1,p,h2{
+    text-align: center;
+}
+button{
+    border: none;
+    background-color: rgba(247, 247, 247, 0);
+}
+button:hover{
+    cursor: pointer;
+}
